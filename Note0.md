@@ -20,7 +20,7 @@
 
 ---
 
-## 生词
+## 数学概念的英文表示
 
 1. cardinality：基数
 2. intersection：交集
